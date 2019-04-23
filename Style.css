@@ -1,4 +1,49 @@
 ﻿body
 {
-    background-color:crimson;
+    
+  background-color:red;
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 300px;
+    width:200px;
+    background-color:gray;
+}
+li 
+{
+    float:left;
+}
+
+li a
+{
+    display:block;
+    padding: 14px 16px;
+    color:gray;
+    text-align:center;
+    background-color:black;
+    list-style-type: none;
+    text-decoration:none;
+    border-bottom:solid;
+   
+
+}
+li a:hover
+{
+    background-color:white;
+}
+
+
+
+h2
+{
+    color:black;
+}
+p
+{
+    
+    font-weight:bold;
 }

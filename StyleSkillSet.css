@@ -1,0 +1,19 @@
+﻿body
+{
+    background-color:black;
+
+}
+li
+{
+    color:gray;
+    text-align: center;
+    list-style-type: none;
+    font-size:50px;
+}
+h1
+{
+    color:gray;
+    text-align:center;
+    font-size:100px;
+    text-decoration: underline ;
+}
